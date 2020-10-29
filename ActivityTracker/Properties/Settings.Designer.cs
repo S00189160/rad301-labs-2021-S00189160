@@ -25,7 +25,7 @@ namespace ActivityTracker.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("LINQExample")]
+        [global::System.Configuration.DefaultSettingValueAttribute("RAD3012021Week3Lab")]
         public string ActivityName {
             get {
                 return ((string)(this["ActivityName"]));
